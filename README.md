@@ -5,5 +5,4 @@ Welcome to my Github Profile
  - Down the line I would like to go into CyberSecurity
 
 My stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jsrii&theme=graywhite&border_radius=10&mode=weekly&background=90%2CFFFFFF%2C262626)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jsrii&theme=graywhite&border_radius=10&background=90%2CFFFFFF%2C262626)](https://git.io/streak-stats)
